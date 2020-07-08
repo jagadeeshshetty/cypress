@@ -1,0 +1,23 @@
+{
+  "name": "cypress-poc",
+  "version": "1.0.0",
+  "description": "Learn Cypress Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadeeshshetty/cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagadeeshshetty/cypress/issues"
+  },
+  "homepage": "https://github.com/jagadeeshshetty/cypress#readme",
+  "devDependencies": {
+    "cypress": "~4.10.0"
+  }
+}
